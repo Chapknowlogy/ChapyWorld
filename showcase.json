@@ -1,18 +1,18 @@
 [
   {
-    "title": "Build Title 1 TEST",
+    "title": "Build Title 1",
     "description": "Brief description of this 3D build and its features.",
     "image": "https://github.com/Chapknowlogy/ChapyWorld/blob/main/assets/3d-world-02.jpg?raw=true",
     "link": "#"
   },
   {
-    "title": "Build Title 2 TEST",
-    "description": "Brief description of this 3D build and its features.",
+    "title": "Build Title 2",
+    "description": "Another description of a build and features.",
     "image": "https://github.com/Chapknowlogy/ChapyWorld/blob/main/assets/3d-world-03.jpg?raw=true",
     "link": "#"
   },
   {
-    "title": "Build Title 3 TEST",
+    "title": "Build Title 3",
     "description": "Brief description of this 3D build and its features.",
     "image": "https://github.com/Chapknowlogy/ChapyWorld/blob/main/assets/3d-world-04.jpg?raw=true",
     "link": "#"
